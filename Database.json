@@ -1,0 +1,30 @@
+{
+        "42:a1:98:b7:33:dc:": {
+        "numberPlate": "MH01-AP-3545",
+	"name": "Truck 1",
+        "modelNumber": "Model XYZ",
+        "capacity": "5 tons",
+        "company": "Tata",
+        "wifi-strength":"-10",
+        "loadCell": [15, 80, 122, 58, 212, 112]
+      },
+	"e2:b7:0f:ea:e7:11:": {
+        "numberPlate": "MH01-AP-4857",
+	"name": "Truck 2",
+        "modelNumber": "Model ABC",
+        "capacity": "4 tons",
+        "company": "Ashoka",
+        "wifi-strength":"-10",
+        "loadCell": [0, 0, 0, 0, 0, 0]
+      },
+	"18:f0:e4:c6:70:1d:": {
+        "numberPlate": "MH01-AP-3102",
+	"name": "Truck 3",
+        "modelNumber": "Model ABC",
+        "capacity": "6 tons",
+        "company": "Mahindra",
+        "wifi-strength":"-10",
+        "loadCell": [0, 0, 0, 0, 0, 0]
+      }
+}
+    
