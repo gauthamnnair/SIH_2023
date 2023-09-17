@@ -1,9 +1,9 @@
 # SIH_2023
-1.wifi.py:
+1.Wifi.py:
 Identifies the MAC address of the strongest WiFi signal.
 Writes associated data to Database.json
 
-2.main.py:
+2.Main.py:
 Determines the strongest WiFi signal in the vicinity.
 Checks if its data exists in Database.json.
 
